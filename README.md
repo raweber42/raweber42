@@ -1,7 +1,5 @@
-Hey! My name is Ralf, I'm a 23 year old Software Developer from Germany. Currently I am improving my coding skills at @[42 Wolfsburg](https://www.42wolfsburg.de)! </br>
-I discovered my passion for coding in 2020 and have been coding daily ever since. Right now I am re-coding some STL containers in C++ and I am diving into app development with Flutter (I plan to release a first app soon!).
-
-Besides that I am really passionate about sports (especially calistenics), economics and Bitcoin.
+Hey! My name is Ralf, I'm a 23 year old Software Developer from Germany. Currently I am working as a backend engineer at [lipa](https://www.lipa.swiss)! </br>
+I discovered my passion for coding in 2020 and have been coding daily ever since. Besides my job I am specializing in machine learning right now!
 
 Feel free to checkout my repos!
 
